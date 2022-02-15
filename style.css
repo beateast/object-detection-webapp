@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+.heading {
+    background-color: royalblue;
+    font-size: 30px;
+}
+.ac:hover {
+    background-color: chartreuse;
+}
+.bedroom:hover {
+    background-color: chartreuse;
+}
+.desk:hover {
+    background-color: chartreuse;
+}
+.bottle:hover {
+    background-color: chartreuse;
+}
+.basket:hover {
+    background-color: chartreuse;
+}
